@@ -1,0 +1,11 @@
+Coberturas:
+    Ganache de Chocolate Meio Amargo
+    Ganache de Chocolate ao Leite
+    Ganache de Chocolate Branco
+    Ganache de Café
+    Ganache de Caramelo Salgado
+    Ganache de Maracujá
+    Chantilly
+    Buttercream
+    Doce de Leite
+    Glaçúcar

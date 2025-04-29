@@ -1,0 +1,18 @@
+Receita:
+    Farinha de trigo
+    Açúcar
+    Ovos
+    Leite
+    Óleo
+    Fermento em pó
+Ingredientes Principais por Sabor:
+    Baunilha: Essência de baunilha
+    Chocolate: Chocolate em pó ou achocolatado
+    Limão: Suco e raspas de limão
+    Laranja: Suco e raspas de laranja
+    Coco: Leite de coco e coco ralado
+    Cenoura: Cenoura ralada
+    Maçã com Canela: Maçã picada e canela em pó
+    Mármore: Cacau em pó (para parte da massa)
+    Café: Café solúvel
+    Especiarias: Canela, noz-moscada, cravo em pó

@@ -1,0 +1,11 @@
+Sabores de Bolo:
+    Baunilha: 220 °C
+    Chocolate: 220 °C
+    Limão: 220 °C
+    Laranja: 220 °C
+    Coco: 220 °C
+    Cenoura: 220 °C
+    Maçã com Canela: 220 °C
+    Mármore: 220 °C
+    Café: 220 °C
+    Especiarias: 220 °C
